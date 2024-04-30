@@ -1,0 +1,73 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+header
+{
+    height: 80px;
+    width: 100%;
+    background-color: pink;
+}
+.container
+{
+    height: 80px;
+    width: 80%;
+    margin: auto;
+    background-color: blueviolet;
+}
+.flex2
+{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: brown;
+}
+.logo
+{
+    height: 80px;
+    line-height: 80px;
+}
+.logo h2
+{
+    color: #fff;
+}
+.main
+{
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+.sublist
+{
+    height: 80px;
+    padding-left: 40px;
+    padding-top: 30px;
+    position: relative;
+   
+}
+.sublist a
+{
+    font-size: 20px;
+    
+}
+.submenu
+{
+    position: absolute;
+    top: 80px;
+    left: 20px;
+    width: 100%;
+    background-color: aqua;
+    display: none;
+}
+.sublist:hover .submenu
+{
+    display: block;
+}
+.sme
+{
+    padding: 20px;
+}

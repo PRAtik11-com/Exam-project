@@ -1,0 +1,59 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.header
+{
+    height: 500px;
+    width: 100%;
+    background-color: maroon;
+}
+.cont
+{
+    height: 500px;
+    width: 80%;
+    background-color: greenyellow;
+    margin: auto;
+}
+.class
+{
+    height: 500px;
+    width: 100%;
+    background-color: pink;
+}
+.tag
+{   
+    height: 40px;
+    padding-top: 20px;
+    text-align: center;
+}
+.flex3
+{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.card1
+{
+    height: 500px;
+    width: 32%;
+}
+.p1
+{
+    height: 300px;
+    width: 32%;
+}
+
+.card2
+{
+    height: 500px;
+    width: 32%;
+}
+.card3
+{
+    height: 500px;
+    width: 32%;
+}

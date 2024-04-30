@@ -1,0 +1,146 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.form
+{
+    height: 500px;
+    width: 100%;
+    /* background-color: aqua; */
+    margin-top: 150px;
+}
+.container
+{
+    height: 500px;
+    width: 70%;
+    /* background-color: greenyellow; */
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.card1
+{
+    height: 500px;
+    width: 50%;
+    background-color: pink;
+}
+.tag
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: #000;
+    padding-top: 25px;
+}
+.all
+{   
+    height: auto;
+    width: 98%;
+    /* background-color: green; */
+}
+.flex1
+{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    width: 100%;
+    padding: 20px;
+    /* background-color: blanchedalmond; */
+}
+.car
+{
+    height: 80px;
+    width: 50%;
+}
+label
+{
+    font-size: 18px;
+    color: #000;
+}
+#p1
+{
+    height: 40px;
+    width: 100%;
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 8px;
+    border: 1px solid #fff;
+}
+#p2
+{
+    height: 40px;
+    width: 100%;
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 8px;
+    border: 1px solid #fff;
+}
+.car1
+{
+    height: 80px;
+    width: 49%;
+}
+.email
+{
+    height: 100px;
+    width: 100%;
+    /* background-color: blueviolet; */
+    padding-top: 15px;
+    padding-left: 20px;
+}
+#p3
+{
+    height: 40px;
+    width: 97%;
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 8px;
+    border: 1px solid #fff;
+}
+.message
+{
+    height: 150px;
+    width: 100%;
+    /* background-color: aliceblue; */
+    padding-top: 10px;
+    padding-left: 20px;
+}
+#p5
+{
+    width: 97%;
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 8px;
+    border: 1px solid #fff;
+}
+.button
+{
+    height: 40px;
+    width: 100px;
+    background-color: mediumseagreen;
+    border: 1px solid pink;
+    margin-left: 40%;
+    border-radius: 20px;
+}
+.button a
+{   
+    margin-top: 12px; 
+    padding: 60px 0px 0px 25px;
+}
+.card2
+{
+    height: 500px;
+    width: 49%;
+    background-color: blue;
+}
+.card2 img
+{
+    height: 500px;
+    width: 100%;
+}
+
+
+
+
